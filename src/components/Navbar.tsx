@@ -27,7 +27,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 md:h-20">
           <a href="#home" className="font-display text-xl md:text-2xl font-bold text-primary">
-            My Bakery
+            Gritik Food Point
           </a>
 
           {/* Desktop */}

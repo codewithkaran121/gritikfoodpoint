@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div>
-            <h3 className="font-display text-2xl font-bold text-cream mb-4">My Bakery</h3>
+            <h3 className="font-display text-2xl font-bold text-cream mb-4">Gritik Food Point</h3>
             <p className="text-cream/60 text-sm leading-relaxed">
               A cozy haven for food lovers. Handcrafted dishes, warm ambience, and unforgettable flavors.
             </p>
